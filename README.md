@@ -29,12 +29,19 @@ Aplicativo mobile desenvolvido para gestão de escalas hospitalares.
 
 ## 📸 Preview
 
+## 📸 Preview do App
+
 <p align="center">
-  <img src="https://via.placeholder.com/250x500" width="200"/>
-  <img src="https://via.placeholder.com/250x500" width="200"/>
+  <img src="./docs/screenshots/login.png" width="200"/>
+  <img src="./docs/screenshots/dashboard.png" width="200"/>
+  <img src="./docs/screenshots/funcionarios.png" width="200"/>
 </p>
 
----
+<p align="center">
+  <img src="./docs/screenshots/escala.png" width="200"/>
+  <img src="./docs/screenshots/nova-escala.png" width="200"/>
+  <img src="./docs/screenshots/trocas.png" width="200"/>
+</p>
 
 ## ⚙️ Como rodar o projeto
 
