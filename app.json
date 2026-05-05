@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "UMS Escalas",
+    "slug": "ums-escalas",
+    "scheme": "umsescalas",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
