@@ -38,7 +38,7 @@ Aplicativo mobile desenvolvido para gestão de escalas hospitalares.
 </p>
 
 <p align="center">
-  <img src="./docs/screenshots/escalas.png" width="200"/>
+  <img src="./docs/screenshots/escala.png" width="200"/>
   <img src="./docs/screenshots/nova-escala.png" width="200"/>
   <img src="./docs/screenshots/trocas.png" width="200"/>
 </p>
