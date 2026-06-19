@@ -1,12 +1,35 @@
 # 🏥 UMS Escalas
+Sistema mobile desenvolvido para gerenciamento de escalas hospitalares.
+
+📍 Utilizado em ambiente real
+📱 Aplicação mobile
+⚡ Backend integrado ao Supabase
+🔐 Controle de acesso por perfil
+
+
 ## 🚧 Status do projeto
 
-Em desenvolvimento.
+✅ MVP concluído
 
-Atualmente estou implementando a integração com Supabase para persistência de dados, autenticação e estruturação do backend.
-Aplicativo mobile desenvolvido para gestão de escalas hospitalares.
+Sistema utilizado para gestão de escalas hospitalares, banco de horas e trocas de plantão.
+
+Novas funcionalidades continuam sendo desenvolvidas.
 
 ---
+
+## Arquitetura
+
+Frontend:
+- React Native
+- Expo
+- TypeScript
+
+Backend:
+- Supabase
+- PostgreSQL
+
+Autenticação:
+- Supabase Auth
 
 ## 🚀 Tecnologias
 
@@ -24,6 +47,14 @@ Aplicativo mobile desenvolvido para gestão de escalas hospitalares.
 - Troca de plantões
 - Validação de dados (ex: COREN obrigatório)
 - Interface otimizada para mobile
+
+---
+## Desafios Resolvidos
+
+- Controle de acesso por perfil
+- Banco de horas automatizado
+- Regras específicas de escalas hospitalares
+- Fluxo de trocas de plantão
 
 ---
 
